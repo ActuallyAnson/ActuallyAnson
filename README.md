@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
+Hey, I'm Anson!<br><br>🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
@@ -16,35 +16,38 @@ Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Te
 -->
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="340" valign="top">
       <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw" target="_blank">
         <img src="https://img.youtube.com/vi/0rmqW_Kb_tw/0.jpg" width="320" alt="Shroomy Doomy"/>
       </a>
-  <br/><b>ShroomyDoomy</b>
-  <br/><span style="font-size: 90%; color: gray;"><i>2D Dungeon Crawler Game, made with FruitLoops Engine.</i></span>
-</td>
-    <td align="center">
+      <br/><b>ShroomyDoomy</b>
+      <br/><span style="font-size: 90%; color: gray;"><i>2D Dungeon Crawler Game, made with FruitLoops Engine.</i></span>
+    </td>
+    <td align="center" width="340" valign="top">
       <a href="https://youtu.be/KH7oer985ag" target="_blank">
         <img src="https://img.youtube.com/vi/KH7oer985ag/0.jpg" width="320" alt="Zero Day Odyssey"/>
- </a>
-  <br/><b>Zero Day Odyssey</b>
-  <br/><span style="font-size: 90%; color: gray;"><i>Asteroid Shooter Game made with CProcessing.</i></span>
-</td>
+      </a>
+      <br/><b>Zero Day Odyssey</b>
+      <br/><span style="font-size: 90%; color: gray;"><i>Asteroid Shooter Game made with CProcessing.</i></span>
+    </td>
   </tr>
   <tr>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=UAiXYLueI70" target="_blank">
-    <img src="https://img.youtube.com/vi/UAiXYLueI70/0.jpg" width="320" alt="AI Resume Curator"/>
-  </a>
-  <br/><b>Open-Source AI Hackathon #18 - AI Agents – Microsoft Reactor Redmond</b>
-  <br/><span style="font-size: 90%; color: gray;"><i>An AI-powered platform to automatically curate and grade resumes</i></span>
-</td>
-    <td align="center">
-      <!-- Add another video or leave blank -->
+    <td align="center" width="340" valign="top">
+      <a href="https://youtu.be/X4xaY-bn-DY" target="_blank">
+        <img src="https://img.youtube.com/vi/X4xaY-bn-DY/0.jpg" width="320" alt="AI Resume Curator"/>
+      </a>
+      <br/><b>Open-Source AI Hackathon #18 - AI Agents – Microsoft Reactor Redmond</b>
+      <br/><span style="font-size: 90%; color: gray;"><i>An AI-powered platform to automatically curate and grade resumes.</i></span>
+    </td>
+    <td align="center" width="340" valign="top">
+      <a href="https://www.youtube.com/watch?v=_OfJFJCoDLM" target="_blank">
+        <img src="https://img.youtube.com/vi/_OfJFJCoDLM/0.jpg" width="320" alt="TikTokTech"/>
+      </a>
+      <br/><b>TikTok TechJam Hackathon 2025</b>
+      <br/><span style="font-size: 90%; color: gray;"><i>Geo-Compliance Classifier.</i></span>
     </td>
   </tr>
 </table>
-
 
 
 # 📊 GitHub Stats:
