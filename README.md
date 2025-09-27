@@ -1,10 +1,52 @@
 # 💫 About Me:
-Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Technology  | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
+Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+# 🎬 Featured Project Videos
+<!-- 
+  Add your project showcase videos here! 
+  For YouTube: Replace the example links with your actual video URLs.
+  For local MP4s: Use <video> tag and host the file via GitHub releases or another public URL. 
+-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw" target="_blank">
+        <img src="https://img.youtube.com/vi/0rmqW_Kb_tw/0.jpg" width="320" alt="Shroomy Doomy"/>
+      </a>
+  <br/><b>ShroomyDoomy</b>
+  <br/><span style="font-size: 90%; color: gray;"><i>2D Dungeon Crawler Game, made with FruitLoops Engine.</i></span>
+</td>
+    <td align="center">
+      <a href="https://youtu.be/KH7oer985ag" target="_blank">
+        <img src="https://img.youtube.com/vi/KH7oer985ag/0.jpg" width="320" alt="Zero Day Odyssey"/>
+ </a>
+  <br/><b>Zero Day Odyssey</b>
+  <br/><span style="font-size: 90%; color: gray;"><i>Asteroid Shooter Game made with CProcessing.</i></span>
+</td>
+  </tr>
+  <tr>
+<td align="center">
+  <a href="https://www.youtube.com/watch?v=UAiXYLueI70" target="_blank">
+    <img src="https://img.youtube.com/vi/UAiXYLueI70/0.jpg" width="320" alt="AI Resume Curator"/>
+  </a>
+  <br/><b>Open-Source AI Hackathon #18 - AI Agents – Microsoft Reactor Redmond</b>
+  <br/><span style="font-size: 90%; color: gray;"><i>An AI-powered platform to automatically curate and grade resumes</i></span>
+</td>
+    <td align="center">
+      <!-- Add another video or leave blank -->
+    </td>
+  </tr>
+</table>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=actuallyanson&theme=tokyonight&hide_border=false)<br/>
@@ -12,5 +54,3 @@ Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Te
 
 ---
 [![](https://visitcount.itsvg.in/api?id=actuallyanson&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
