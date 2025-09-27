@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=66CCFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anson!;Aspiring+Software+Engineer" alt="Animated Typing Banner" />
+</p>
+
 # 💫 About Me:
-Hey, I'm Anson!<br><br>🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
+🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
