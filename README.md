@@ -74,6 +74,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=actuallyanson&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
