@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Technology  | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>---<br><br> 
+Hey, I'm Anson<br><br>🎓 Computer Science student at Singapore Institute of Technology  | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
 
