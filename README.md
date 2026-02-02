@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Currently seeking an internship<br><br>
+🎓 Computer Science student at Singapore Institute of Technology | Digipen <br>💻 Aspiring Software Engineer, with interests in backend systems<br>🚀 Trying to learn new things everyday<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
