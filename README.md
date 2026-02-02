@@ -8,6 +8,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
 
+## 📄 Resume:
+[![Download](https://img.shields.io/badge/Download-8A2BE2)](https://docs.google.com/document/d/1_6srRqwWC2eJLn8DhPf1oDJBZHJ19FlO/export?format=docx)
+
 # 💻 Tech Stack
 
 ## Languages & Core Tools
@@ -77,3 +80,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=actuallyanson&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actuallyanson&theme=tokyo-night)
