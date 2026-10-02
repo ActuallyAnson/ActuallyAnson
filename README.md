@@ -8,8 +8,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansont) 
 
-## 📄 Resume:
-[![Download](https://img.shields.io/badge/Download-8A2BE2)](https://docs.google.com/document/d/1_6srRqwWC2eJLn8DhPf1oDJBZHJ19FlO/export?format=docx)
 
 # 💻 Tech Stack
 
@@ -17,68 +15,40 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+## Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Testing & Debugging
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![spdlog](https://img.shields.io/badge/spdlog-555555?style=for-the-badge&logoColor=white)
+
+## APIs & Frameworks
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Slack Bolt](https://img.shields.io/badge/Slack%20Bolt-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Other Tools & IDEs
 <div align="left" style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" />
 </div>
-
-# 🎬 Featured Project Videos
-<!-- 
-  Add your project showcase videos here! 
-  For YouTube: Replace the example links with your actual video URLs.
-  For local MP4s: Use <video> tag and host the file via GitHub releases or another public URL. 
--->
-<table>
-  <tr>
-    <td align="center" width="340" valign="top">
-      <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw" target="_blank">
-        <img src="https://img.youtube.com/vi/0rmqW_Kb_tw/0.jpg" width="320" alt="Shroomy Doomy"/>
-      </a>
-      <br/><b>ShroomyDoomy</b>
-      <br/><span style="font-size: 90%; color: gray;"><i>2D Dungeon Crawler Game, made with FruitLoops Engine.</i></span>
-    </td>
-    <td align="center" width="340" valign="top">
-      <a href="https://youtu.be/KH7oer985ag" target="_blank">
-        <img src="https://img.youtube.com/vi/KH7oer985ag/0.jpg" width="320" alt="Zero Day Odyssey"/>
-      </a>
-      <br/><b>Zero Day Odyssey</b>
-      <br/><span style="font-size: 90%; color: gray;"><i>Asteroid Shooter Game made with CProcessing.</i></span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="340" valign="top">
-      <a href="https://youtu.be/X4xaY-bn-DY" target="_blank">
-        <img src="https://img.youtube.com/vi/X4xaY-bn-DY/0.jpg" width="320" alt="AI Resume Curator"/>
-      </a>
-      <br/><b>Open-Source AI Hackathon #18 - AI Agents – Microsoft Reactor Redmond</b>
-      <br/><span style="font-size: 90%; color: gray;"><i>An AI-powered platform to automatically curate and grade resumes.</i></span>
-    </td>
-    <td align="center" width="340" valign="top">
-      <a href="https://www.youtube.com/watch?v=_OfJFJCoDLM" target="_blank">
-        <img src="https://img.youtube.com/vi/_OfJFJCoDLM/0.jpg" width="320" alt="TikTokTech"/>
-      </a>
-      <br/><b>TikTok TechJam Hackathon 2025</b>
-      <br/><span style="font-size: 90%; color: gray;"><i>Geo-Compliance Classifier.</i></span>
-    </td>
-  </tr>
-</table>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=actuallyanson&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyanson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actuallyanson&theme=tokyo-night)
