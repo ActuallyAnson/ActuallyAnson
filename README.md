@@ -45,7 +45,13 @@
       <br/><b>Geo-Compliance Classifier</b>
       <br/><span style="font-size: 90%; color: gray;"><i>TikTok TechJam 2025. Multi-agent pipeline, led a 4-person team. <a href="https://github.com/ActuallyAnson/tiktoktech">Source</a></i></span>
     </td>
-    <td></td>
+    <td align="center" width="260" valign="top">
+  <a href="https://youtu.be/rHbK1fGoPsQ" target="_blank">
+    <img src="https://img.youtube.com/vi/rHbK1fGoPsQ/0.jpg" width="250" alt="RealityCheck"/>
+  </a>
+  <br/><b>RealityCheck</b>
+  <br/><span style="font-size: 90%; color: gray;"><i>Meta Global AI Developer Hackathon 2026. C++ tool that finds where a simulator misbehaves, with Muse Spark explaining failures. <a href="https://github.com/ActuallyAnson/RealityCheck">Source</a></i></span>
+</td>
   </tr>
 </table>
 
