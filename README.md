@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/Nebius_x_NVIDIA-Entry-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nebius x NVIDIA"/>
       <br/><br/>
       <a href="https://github.com/ActuallyAnson/TraceBack" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/ActuallyAnson/TraceBack" width="250" alt="Traceback"/>
+        <img src="https://raw.githubusercontent.com/ActuallyAnson/ActuallyAnson/main/assets/traceback.png" width="250" alt="Traceback"/>
       </a>
       <br/><b>Traceback</b>
       <br/><span style="font-size: 90%; color: gray;"><i>Nebius x NVIDIA Global AI Hackathon 2026. C++20 incident root-cause investigator for multi-service backends. Finds the cause in 95.8% of 48 simulated incidents. <a href="https://actuallyanson.github.io/TraceBack/">Live demo</a></i></span>
