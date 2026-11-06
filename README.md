@@ -38,7 +38,7 @@
         <img src="https://img.youtube.com/vi/rHbK1fGoPsQ/0.jpg" width="250" alt="RealityCheck"/>
       </a>
       <br/><b>RealityCheck</b>
-      <br/><span style="font-size: 90%; color: gray;"><i>Meta Global AI Developer Hackathon 2026. C++ tool that finds where a simulator misbehaves, with Muse Spark explaining failures. Noticed 18 of 33 planted changes in Box2D. <a href="https://github.com/ActuallyAnson/RealityCheck">Source</a></i></span>
+      <br/><span style="font-size: 90%; color: gray;"><i>Meta Global AI Developer Hackathon 2026. C++ tool that finds where a simulator misbehaves, with Muse Spark explaining failures. Noticed 25 of 33 behavior-changing planted changes in Box2D (18 without adapter hooks). <a href="https://github.com/ActuallyAnson/RealityCheck">Source</a></i></span>
     </td>
   </tr>
   <tr>
